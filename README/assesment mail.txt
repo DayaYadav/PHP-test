@@ -1,0 +1,8 @@
+1/ CRUDController
+2/ HTMLController
+3/ FileHandlingController 
+-->Read file from desktop and List
+--> Read disk space
+
+Create View in mysql database
+1/ CREATE VIEW `myRouteView` AS SELECT id,Hostname,Loopback FROM route_table 
